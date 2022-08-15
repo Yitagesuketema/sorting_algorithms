@@ -1,5 +1,5 @@
 /*
- * File: 2-selection_sort.c
+ * File: 3-quick_sort.c
  * Auth: Yitagesu K Areda
  */
 #include "sort.h"
