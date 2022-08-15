@@ -2,6 +2,7 @@
  * File: 2-selection_sort.c
  * Auth: Yitagesu K Areda
  */
+
 #include "sort.h"
 /**
  * selection_sort - Selection sort algorithm.
