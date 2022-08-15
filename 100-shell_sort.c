@@ -1,8 +1,8 @@
 /*
- * File: 3-quick_sort.c
+ * File: 100-shell_sort.c
  * Auth: Yitagesu K Areda
  */
- 
+
 #include "sort.h"
 
 /**
