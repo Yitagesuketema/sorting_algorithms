@@ -2,7 +2,6 @@
  * File: 0-bubble_sort.c
  * Auth: Yitagesu K Areda
  */
- 
 #include "sort.h"
 /**
  *bubble_sort - Bubble sorting function.

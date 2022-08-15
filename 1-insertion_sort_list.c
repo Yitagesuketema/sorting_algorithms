@@ -2,7 +2,6 @@
  * File: 1-insertion_sort_list.c
  * Auth: Yitagesu K Areda
  */
- 
 #include "sort.h"
 /**
  * insertion_sort_list - Insertion sort algorithm for listint_t.
