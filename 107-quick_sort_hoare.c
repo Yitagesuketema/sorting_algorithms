@@ -1,3 +1,8 @@
+/*
+ * File: 107-quick_sort_hoare.c
+ * Auth: Yitagesu K Areda
+ */
+
 #include "sort.h"
 /**
 * partition_hoare - Lomutu partition scheme for quicksort algorithm
